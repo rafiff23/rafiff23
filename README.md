@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafiff23  
+- 👋 Hi, I’m @rafif
 - 👀 I’m interested in Computer Science  
 - 🎓 I graduated from Binus University with a degree in Computer Science  
 - 💼 I’m available for work opportunities  
